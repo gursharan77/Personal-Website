@@ -6,7 +6,7 @@
     </a>
     Live at:
         <a href="https://gursharan007.netlify.app/">
-            <b>Gursharan</b>
+            <b>Gursharan Personal Website</b>
         </a>
 </p>
 Personal website built with Astro, Tailwind CSS, and TypeScript. Deployed with Netlify.
