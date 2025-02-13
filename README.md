@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://gursharan007.netlify.app/">
-        <img src="design/personal-website.png">
+        <img src="src/images/project-thumbnails/personal-website.png">
     </a>
     Live at:
         <a href="https://gursharan007.netlify.app/">
