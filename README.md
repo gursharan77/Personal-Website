@@ -11,13 +11,6 @@
 </p>
 Personal website built with Astro, Tailwind CSS, and TypeScript. Deployed with Netlify.
 
-### Initial Prototype Sketch in Figma
-
-<p align="center">
-    <img src="design/prototype/Home (Light).png" width=300/>
-    <img src="design/prototype/Projects (Light).png" width=300/>
-    <img src="design/prototype/Contact (Light).png" width=300/>
-</p>
 
 ### Pre-requisites
 
