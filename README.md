@@ -1,12 +1,12 @@
 # Personal Website
 
 <p align="center">
-    <a href="Website Link">
+    <a href="https://gursharan007.netlify.app/">
         <img src="design/personal-website.png">
     </a>
     Live at:
-        <a href="Website Link">
-            <b>Website Link</b>
+        <a href="https://gursharan007.netlify.app/">
+            <b>Gursharan</b>
         </a>
 </p>
 Personal website built with Astro, Tailwind CSS, and TypeScript. Deployed with Netlify.
